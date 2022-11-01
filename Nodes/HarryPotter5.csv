@@ -1,0 +1,46 @@
+Id,Label,timeset,bio,Degree,modularity_class,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,Clustering Coefficient,pageranks,componentnumber,stat_inf_class,clustering,triangles,eigencentrality
+39,Harry Potter,,The boy who lived. Main character of the series.,43,0,6902,2,0.977778,0.988636,533.539286,0.398449,0.398445,0.139535,0.128526,0,0,0.139535,126,1
+21,Hermione Granger,,One of Harry's best friend and marries Ron Weasley.,29,0,3589,2,0.745763,0.829545,109.989286,0.34817,0.348168,0.26601,0.076167,0,0,0.26601,108,0.865966
+58,Ron Weasley,,Harry's best friend. Marries Hermione.,27,0,3724,2,0.721311,0.806818,117.810714,0.330569,0.330567,0.282051,0.072254,0,0,0.282051,99,0.821801
+11,Albus Dumbledore,,Headmaster of Hogwards killed by Snape.,11,0,1479,2,0.571429,0.625,4.796429,0.192603,0.192604,0.690909,0.029215,0,0,0.690909,38,0.477219
+45,Lord Voldemort,,The antagonist of the series who murdered many.,16,0,1410,2,0.611111,0.681818,20.284524,0.23417,0.23417,0.466667,0.042335,0,0,0.466667,56,0.58216
+22,Rubeus Hagrid,,Half-giant who loves Harry. He was the keeper of Keys and Grounds at Hogwards.,9,0,383,2,0.556962,0.602273,2.084524,0.166922,0.166922,0.722222,0.024205,0,0,0.722222,26,0.413721
+41,Lily Potter,,Mother of Harry. Murdered by Voldemort.,10,0,603,2,0.564103,0.613636,4.045238,0.176001,0.176002,0.711111,0.027032,0,0,0.711111,32,0.437169
+1,Sirius Black,,Best friend of James Potter and godfather of Harry.,10,0,488,2,0.564103,0.613636,1.829762,0.183183,0.183184,0.8,0.026541,0,0,0.8,36,0.453779
+29,Luna Lovegood,,Ravenclaw student who was a member of Dumbledore's army.,8,0,316,2,0.55,0.590909,2.65,0.136315,0.136316,0.642857,0.022957,0,0,0.642857,18,0.340143
+31,Remus Lupin,,Friend of James Potter and werewolf. He married Nymphadora.,13,0,511,2,0.586667,0.647727,6.761905,0.215488,0.215489,0.615385,0.033483,0,0,0.615385,48,0.533025
+51,Bill Weasley,,Oldest son of Arthur and Molly. Husband of Fleur.,9,1,424,2,0.556962,0.602273,4.309524,0.153548,0.153549,0.75,0.025341,0,0,0.75,27,0.381433
+55,Ginny Weasley,,Marries Harry Potter and only daughter of Molly and Arthur.,10,0,358,2,0.564103,0.613636,2.816667,0.173294,0.173294,0.711111,0.026696,0,0,0.711111,32,0.429542
+47,Severus Snape,,Head of the Slytherin house and saved Harry in many occasions.,13,0,784,2,0.586667,0.647727,12.895238,0.196161,0.196161,0.512821,0.034935,0,0,0.512821,40,0.48858
+53,Fred Weasley,,Identical twin with George and co-owner of Weasleys' Wizard Wheezes,8,0,362,2,0.55,0.590909,1.333333,0.141236,0.141237,0.785714,0.022382,0,0,0.785714,22,0.351043
+28,Neville Longbottom,,Gryffindor student who was a member of Dumbledore's army.,6,0,183,2,0.536585,0.568182,1.2,0.118403,0.118404,0.733333,0.0181,0,0,0.733333,11,0.295563
+34,Narcissa Malfoy,,Mother of Draco and sister of Bellatrix.,9,0,368,2,0.556962,0.602273,5.133333,0.142263,0.142264,0.638889,0.025749,0,0,0.638889,23,0.356095
+48,Nymphadora Tonks,,Married Remus Lupin and was killed by Bellatrix.,6,0,200,2,0.536585,0.568182,0.166667,0.127706,0.127707,0.933333,0.017121,0,0,0.933333,14,0.316714
+40,James Potter,,Father of Harry. Murdered by Voldemort.,7,0,202,3,0.536585,0.575758,0.267857,0.133741,0.133742,0.904762,0.019389,0,0,0.904762,19,0.33142
+30,Xenophilius Lovegood,,Father of Luna and editor of The Quibbler.,4,0,289,2,0.52381,0.545455,0,0.094906,0.094907,1,0.012815,0,0,1,6,0.236999
+25,Bellatrix Lestrange,,Death Eater who was killed by Molly Weasley.,7,0,271,2,0.54321,0.579545,0.8,0.131322,0.131323,0.857143,0.020057,0,0,0.857143,18,0.327816
+54,George Weasley,,Identical twin with Fred and co-owner of Weasleys' Wizard Wheezes,9,0,288,2,0.556962,0.602273,0.809524,0.162525,0.162525,0.861111,0.024219,0,0,0.861111,31,0.402833
+8,Fleur Delacour,,Participated in the Triwizard tournament and married Bill Weasley.,8,1,339,2,0.55,0.590909,0.309524,0.150417,0.150418,0.928571,0.021894,0,0,0.928571,26,0.373069
+14,Vernon Dursley,,Harry's muggle uncle.,3,0,122,3,0.511628,0.530303,0,0.039443,0.039443,1,0.012338,0,0,1,3,0.102083
+36,Minerva McGonagall,,Professor of Transfiguration and head of Gryffindor.,4,0,112,2,0.52381,0.545455,0,0.083018,0.083018,1,0.012869,0,0,1,6,0.207776
+12,Dudley Dursley,,Muggle son of Vernon and Petunia and first-cousin of Harry.,3,0,99,3,0.511628,0.530303,0,0.039443,0.039443,1,0.012338,0,0,1,3,0.102083
+32,Draco Malfoy,,Slytherin student who had many arguments with Harry.,7,0,169,2,0.54321,0.579545,0.333333,0.139297,0.139298,0.904762,0.019778,0,0,0.904762,19,0.347206
+46,Rita Skeeter,,Reporter at the Daily Prophet.,3,0,205,3,0.511628,0.530303,0,0.073455,0.073455,1,0.010361,0,0,1,3,0.183352
+33,Lucius Malfoy,,Father of Draco and influential Death-Eater.,5,0,123,3,0.52381,0.55303,0.333333,0.086215,0.086215,0.8,0.015273,0,0,0.8,8,0.216103
+0,Regulus Arcturus Black,,Brother of Sirius. Used to be a Death Eater but defected.,5,0,105,2,0.53012,0.556818,0,0.116885,0.116886,1,0.014881,0,0,1,10,0.290483
+59,Dobby,,House elf and friend of Harry. He is killed by Bellatrix.,2,1,47,3,0.505747,0.518939,0,0.043171,0.043171,1,0.008265,0,0,1,1,0.108955
+44,Mary Riddle,,Muggle mother of Voldemort who was killed by him.,3,0,53,3,0.511628,0.530303,0.5,0.052233,0.052233,0.666667,0.012072,0,0,0.666667,2,0.13217
+13,Petunia Dursley,,Harry's aunt and sister of Lily.,5,0,113,3,0.52381,0.55303,2,0.066438,0.066438,0.6,0.017451,0,0,0.6,6,0.168952
+24,Viktor Krum,,Participant in the Triwizard tournament. Dated Hermione.,2,0,52,3,0.505747,0.518939,0,0.058391,0.058392,1,0.008103,0,0,1,1,0.14649
+20,Gregory Goyle,,Best friend of Crabbe. Slytherin student and dies by falling into Fiendfyre.,4,0,90,3,0.517647,0.541667,0,0.075416,0.075417,1,0.013379,0,0,1,6,0.189829
+5,Vincent Crabbe,,Slytherin student who was best friends with Goyle and followed Draco.,4,0,81,3,0.517647,0.541667,0,0.075416,0.075417,1,0.013379,0,0,1,6,0.189829
+43,Tom Riddle Sr.,,Muggle father of Voldemort who was killed by him.,2,0,35,3,0.505747,0.518939,0,0.035247,0.035247,1,0.009294,0,0,1,1,0.090198
+57,Percy Weasley,,Third son of Arthur and Molly. He is a Gryffindor prefect.,4,0,84,2,0.52381,0.545455,0,0.095291,0.095292,1,0.012754,0,0,1,6,0.237721
+64,Grawp,,Giant-half brother of Hagrid.,1,0,23,3,0.5,0.507576,0,0.031162,0.031162,0,0.005872,0,0,0,0,0.079215
+50,Arthur Weasley,,Father of the Weasleys and member of the Order of the Phoenix.,2,0,35,2,0.511628,0.522727,0,0.057015,0.057016,1,0.008145,0,0,1,1,0.143043
+16,Seamus Finnigan,,Harry's friend and member of Dumbledore's army.,3,0,41,2,0.517647,0.534091,0,0.066275,0.066276,1,0.010711,0,0,1,3,0.166258
+2,Lavender Brown,,Killed by a werewolf. She was a gryffindor student who dated Ron.,2,0,40,3,0.505747,0.518939,0,0.058391,0.058392,1,0.008103,0,0,1,1,0.14649
+61,Hedwig,,Harry's owl.,1,0,14,3,0.5,0.507576,0,0.031162,0.031162,0,0.005872,0,0,0,0,0.079215
+38,Peter Pettigrew,,Betrays James and Lily Potter. Follower of Voldemort.,1,0,14,3,0.5,0.507576,0,0.031162,0.031162,0,0.005872,0,0,0,0,0.079215
+60,Fluffy,,Three-headed dog belonging to Rubeus Hagrid.,1,0,12,3,0.5,0.507576,0,0.031162,0.031162,0,0.005872,0,0,0,0,0.079215
+52,Charlie Weasley,,Second son of Arthur and Molly. Works with dragons in Romania.,1,0,12,3,0.423077,0.44697,0,0.025853,0.025853,0,0.005607,0,0,0,0,0.063828
